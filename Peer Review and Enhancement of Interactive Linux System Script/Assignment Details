@@ -1,0 +1,39 @@
+Objective:
+In this assignment, you will review and enhance a peer's Interactive Linux System Script. You will provide feedback on their script's functionality, user interaction, and code quality. Additionally, you will be required to make improvements to their script by adding new features or enhancing existing ones.
+
+Assignment Details:
+Part 1: Peer Review
+1. Assignment Distribution: You will be provided with a script created by one of your peers. You should review the script carefully and provide constructive feedback based on the following criteria:
+ - User interaction: Assess the effectiveness of questions and input prompts.
+- Linux system operations: Evaluate the accuracy and reliability of system operations.
+- Code quality and readability: Examine the structure, organization, and clarity of the code.
+2. Feedback Submission: Compile your feedback into a detailed report. Highlight areas that need improvement and provide suggestions for enhancement. Submit this report along with your peer's script.
+Part 2: Script Enhancement
+1. Enhancement Plan: Develop a plan for enhancing the script. Consider adding new features, improving existing ones, or enhancing user interaction. Document your plan, specifying the changes you intend to make.
+3. Code Enhancement: Implement the planned changes in the script. Ensure that your enhancements align with the project's objectives and requirements.
+Part 3: Documentation Update
+1. Script Documentation: Update the script's documentation to reflect the changes you have made. Ensure that the documentation is clear, comprehensive, and provides instructions on how to use the enhanced script.
+2. Readme File: If the original script did not include a README file, create one to explain the purpose of the script, how to run it, and any special considerations or requirements.
+Part 4: Submission
+1. Peer's Script: Submit the enhanced script, along with the original script and your feedback report.
+2. Documentation: Include updated documentation within the script and a README file thoroughly documenting the script enhancements and purpose.
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+- Peer Review Report (20%):
+      - Quality of feedback provided to your peer.
+      - Constructive suggestions for improvement.
+- Script Enhancement (40%):
+      - Effectiveness of enhancements in improving user interaction and functionality.
+      - Code quality and organization.
+- Documentation (20%):
+      - Clarity and completeness of updated documentation.
+      - Quality of README file.
+- Creativity and Overall Quality (20%):
+      - Creativity in enhancing the script's features.
+      - Overall quality and usability of the enhanced script.
+Important Note:
+- Respect your peer's work and provide constructive feedback.
+- Ensure that the enhancements you make to the script align with the project's objectives and do not introduce errors.
+- Submit your assignment by the specified deadline.
+
+This assignment will provide you with an opportunity to assess the work of your peers, provide valuable feedback, and gain experience in enhancing existing code to meet specific requirements.
