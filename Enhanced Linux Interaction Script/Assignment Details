@@ -1,0 +1,47 @@
+In this project, you will develop a Linux interaction script that focuses on enhanced user interaction, robust error control, and comprehensive documentation. The script should perform various system operations, provide meaningful user prompts, handle errors gracefully, and include a detailed README file.
+
+Requirements:
+User Interaction:
+
+The script should provide clear and informative prompts to the user for input.
+Include options for the user to perform different operations or tasks.
+Linux System Operations:
+
+Implement functionalities such as file manipulation, directory operations, process management, etc.
+Error Handling:
+
+Ensure robust error handling to gracefully manage unexpected inputs or system errors.
+Provide informative error messages to guide the user.
+Documentation:
+
+Include a detailed README file that describes the purpose of the script, how to use it, and any special requirements.
+Version number and author's name should be included in the README file and Script.
+Deliverables:
+Linux Interaction Script:
+
+The script should be well-structured and commented for readability.
+Include enhanced user interaction features and robust error control mechanisms.
+README File:
+
+Provide a detailed README file describing the script's purpose, functionality, usage instructions, and any other relevant information.
+Include the name of the program, version number, and author's name in the README file.
+Submission:
+
+Submit the script file along with the README file with correct file extensions.
+Grading Criteria:
+User Interaction (30%):
+
+Effectiveness and clarity of user prompts and options.
+Linux System Operations (30%):
+
+Implementation of various system operations and functionalities.
+Error Handling (20%):
+
+Robustness of error handling and informative error messages.
+Documentation (20%):
+
+Completeness and clarity of the README file.
+Important Notes:
+Ensure that the script is well-documented and easy to understand.
+Test the script thoroughly to ensure it functions correctly in different scenarios.
+Submit your assignment by the specified deadline.
