@@ -1,0 +1,31 @@
+Author: Jenna Wolf
+Class: C and the Posix Enviorment CS351
+Program: LabOne
+Used ChatGPT for examples of formating as well as learning the bash language (example: the mv lines)
+Used youtube to start my bash file and figure out how to have it interact with the command line interface
+
+Synopsis: This is a simple library type program. It takes in the users name and then allows them to choose from several different options. They can view the books we have, read a book, make an ID card, take a book home, return a book, or leave. This program works to deal with the basics of linux and bash.
+
+option 1 (see list of books): this option simply lets the user see the titles of the books the program has. There are 4 books. If a book is out, then it will not be on the list.
+
+option 2 (choose a book and read it): This allows the user to read what is in a book. All books are simple, short text files and all text will be displayed. If a book is out, the user cannot read it.
+
+option 3 (take a book home): This lets the user take a book. They cannot have more than one book out at a time. When a book is out, it will not apear in the list of books and cannot be read in option 2.
+
+Option 4 (return a book): This option only goes through if a book is out by the user. When clicked, it takes the book from the user and puts it back on the shelf. That book can now be read in option 2 and viewed in option 1.
+
+Option 5 (read word count): This option reads the word count for each file. It then lets the user decide if they want to create a text file with this information.
+
+Option 6 (leave): this ends the program and says bye to the user.
+
+
+
+TO START THE PROGRAM WHEN USING THE CLI. THIS PROGRAM MUST BE RAN ON UBUNTU THROUGH VISUAL STUDIO
+1. Move the downloaded file to the home directory.
+2. Unzip the file.
+3. pull the bashScript file out of the JennaWolfLabOneV1 folder and put it in your home directory
+4. open your command line interface.
+5. use the command "cd 'bashScript' " This will put you in the correct directory to run the program
+6. use the command chmod +x LabOne.sh . this adds your premission to the file.
+7. type ./LabOne.sh
+ if this does not work, try bash JennaWolfLabOneV1/bashScript/LabOne.sh to start the program
