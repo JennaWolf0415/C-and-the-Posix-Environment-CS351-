@@ -1,0 +1,31 @@
+Objective: In this assignment, you will create a custom Linux script that interacts with the end user through the command line. The script will prompt the user with questions and based on their responses, perform various operations on the Linux system.
+
+Assignment Details:
+
+Task 1: User Interaction
+
+You are required to design a Linux shell script that interacts with the user.
+The script should use the `read` command to prompt the user with questions or requests for input.
+The script should validate and handle user input, ensuring it's suitable for further processing.
+Task 2: Linux System Manipulation
+
+After interacting with the user, the script should perform one or more Linux system operations based on the user's input. Examples include but are not limited to:
+  File and directory manipulation (e.g., creating, deleting, moving files)
+  Process management (e.g., starting, stopping, or monitoring processes)
+  User account management (e.g., adding, modifying, or removing user accounts)
+  System resource monitoring (e.g., displaying CPU or memory usage)
+Task 3: Documentation
+
+You should provide detailed documentation as a separate README file.
+The documentation should explain the purpose of the script, how to use it, and any special considerations or requirements.
+Task 4: Submission
+
+You must submit your Linux script along with any necessary instructions for running it.
+The script will be tested by instructor or peers to ensure it correctly interacts with the user and manipulate the Linux system as intended.
+Grading Criteria:
+
+User interaction: 25%
+Correct implementation of Linux system operations: 40%
+Script documentation: 20%
+Creativity and overall quality: 15%
+Note: You are encouraged to be creative with your script and can choose from a wide range of Linux system operations to perform based on user input. The goal is to demonstrate proficiency in both scripting and Linux system manipulation.
