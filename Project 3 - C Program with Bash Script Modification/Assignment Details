@@ -1,0 +1,74 @@
+Step 1: Refine and Perfect Project Two - System Information Retrieval
+
+1.1. Review and Refine:
+
+   - Students should thoroughly review their Project Two implementation, the system information retrieval program.
+
+   - Address any issues, improve code readability, and ensure error handling is robust.
+
+1.2. Testing:
+
+   - Encourage thorough testing of the Project Two program to ensure that it retrieves system information accurately.
+
+   - Test it within multiple Ubuntu environments to ensure compatibility.
+
+1.3. Error Handling Enhancement:
+
+   - Consider enhancing error handling based on any lessons learned during the testing phase.
+
+   - Ensure that error messages are informative and guide the user in case of issues.
+
+Step 2: Modify Bash Script Parameter using Project Two Bash Script
+
+2.1. Bash Script:
+
+   - Utilizing your Bash script (e.g., `myscript.sh`) created during Project Two, with a parameter that can be modified programmatically.
+
+2.2. C Program:
+
+   - Enhance the existing C program to include an option to modify the Bash script parameter.
+
+   - Allow users to specify the modification (e.g., change a value, add a comment) and provide the necessary input.
+
+   - Utilize file I/O operations (fopen, fread, fwrite, fclose) to read the Project Two Bash script, modify the specified parameter, and write the changes back to the script.
+
+ 
+
+Step 3: Verify Script Modification
+
+3.1. C Program:
+
+   - Implement functionality to read the modified Bash script and display the changes.
+
+   - Use file I/O operations to read the script and extract information for verification.
+
+3.2. Verification:
+
+   - Verify that the changes made by the C program are reflected in the Project Two Bash script.
+
+   - Ensure that the modifications align with user specifications and are accurately represented in the script.
+
+ 
+
+Step 4: Documentation and User Guide
+
+4.1. Documentation:
+
+   - Provide detailed documentation explaining how the C program modifies the Bash script.
+
+   - Include information on the structure of the Project Two Bash script and the parameter being modified.
+
+4.2. User Guide:
+
+   - Create a user guide explaining the steps to run the program, specify modifications, and verify the changes.
+
+   - Include clear instructions on running the program and interpreting the results.
+
+Grading Criteria:
+
+Correctness and completeness of the C program.
+Successful modification of the Bash script parameter.
+Accurate verification of changes.
+Clarity and organization of the documentation.
+Quality of the provided user guide.
+Adherence to non-malicious intent.
