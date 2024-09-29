@@ -1,0 +1,32 @@
+The objective of this assignment is to create a C program that interacts with the Ubuntu Linux operating system to retrieve and display essential system information.
+
+Assignment Details:
+
+Basic System Information:
+Develop a C program that uses system calls and library functions to retrieve and display basic system information. This information should include but not limited to:
+The current date and time.
+The system's host name.
+The system's release information.
+The system's kernel version.
+The number of CPUs or processor cores.
+The total system memory (RAM).
+Display and Formatting:
+Ensure that the system information is displayed in a clear and organized manner. Use appropriate formatting to make the input and output human-readable.
+Error Handling:
+Implement basic error handling to address situations where system information cannot be retrieved.
+Part 2: User Interaction
+
+Menu-Driven Interface:
+Develop a menu-driven interface that allows the user to select the specific system information they want to view. Create menu options to display date and time, host name, release information, kernel version, CPU/core count, and system memory.
+Part 3:  Turn in required documentation.
+
+     Grading Criteria:
+
+Documentation
+Correctness and completeness of the C program.
+Clarity and organization of the system information output.
+Functionality of the menu-driven interface.
+Appropriate error handling.
+The quality and clarity of source code comments.
+The quality of the provided user guide.
+Adherence to non-malicious intent.
