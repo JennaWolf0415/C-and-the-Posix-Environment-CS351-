@@ -1,0 +1,4 @@
+Made by: Jenna Wolf
+
+My plan to enhance this script is to add more user interactions to the script. Im going to do this by making a for loop with more choices. Im also going to allow the user to make choices by letting them decide if they want to make a directory/tex file. They will also be able to name those things. I also plan to update the error checking to go along with this.
+To enhance the script, Im going to allow the user to make a directory as well as export the process and cpu data into a text file. This will allow the user to keep the information if they would like to. They can also name the directory/file so they can recognize it in the files. I will add error checking to make sure only names of letters and numbers can be added.
